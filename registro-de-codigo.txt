@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ficha</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="ficha">
-        <section class="c1">
-            <form action="">
+  <form action="">
                 <label for="nome">Nome:</label>
                 <input type="text" name="nome" id="nome"><br>
                 <label for="sexo">Sexo:</label>
@@ -23,13 +12,3 @@
                 <label for="peso">Peso:</label>
                 <input type="text" name="peso" id="peso">
             </form>
-        </section>
-        <section class="c2"></section>
-        <section class="c3"></section>
-        <section class="c4"></section>
-    </div>
-    <div>
-        <img src="./img/pentagrama.png" alt="">
-    </div>
-</body>
-</html>
